@@ -1,0 +1,34 @@
+SITE: Mariana, nossa história mora aqui
+
+Como abrir:
+1. Extraia o ZIP em uma pasta no computador.
+2. Abra o arquivo index.html em um navegador.
+
+Como publicar rapidamente no Netlify:
+1. Acesse netlify.com.
+2. Faça login.
+3. Arraste a pasta completa do site para a área de deploy.
+4. O Netlify gerará um link público.
+
+Observação sobre música:
+A música foi incluída no pacote a partir do arquivo enviado. Use em contexto pessoal/privado.
+Em navegadores modernos, a música só começa após clique no botão "Tocar nossa música".
+
+Arquivos principais:
+- index.html: estrutura do site
+- style.css: visual e responsividade
+- script.js: galeria, música, vídeos, carta e interações
+- assets/images: fotos otimizadas para web
+- assets/videos: vídeos enviados
+- assets/audio: música enviada
+
+
+Ajustes aplicados nesta versão:
+- Foto 05-brinde removida do carrossel inicial e substituída por 'eu te amo meu amor'.
+- Destaques configurados para Fernando de Noronha e San Andrés.
+- Vídeo substituído por 'Eu, você e a lua'.
+
+
+Ajustes aplicados nesta versão v3:
+- Imagem destaque de San Andrés corrigida para a foto enviada do carrinho.
+- Espaçamento entre Imagens destaque, Catálogo e Lembranças em movimento revisado para reduzir a faixa branca.
